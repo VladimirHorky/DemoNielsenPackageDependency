@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "nielsenappsdk-ios-dynamic-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NielsenDigitalSDK/nielsenappsdk-ios-dynamic-spm",
+      "state" : {
+        "revision" : "95fd3c0f42d79b38098ff683d850a5b2b45133a9",
+        "version" : "8.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
